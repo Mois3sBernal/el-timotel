@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "nombre": "Habitación Estándar",
+    "precio": 60000,
+    "camas": 1,
+    "camasTexto": "Cama doble",
+    "descripcion": "Habitación con cama doble, ventana con vista verde, baño privado con ducha y escritorio para tus cosas.",
+    "caracteristicas": [
+      "Cama doble",
+      "Baño privado",
+      "TV por cable",
+      "Escritorio",
+      "Wi-Fi gratis",
+      "Agua caliente"
+    ],
+    "fotos": [
+      {
+        "src": "img/hab1.jpg",
+        "alt": "Habitación Estándar: dormitorio"
+      },
+      {
+        "src": "img/hab1_bano.jpg",
+        "alt": "Habitación Estándar: baño"
+      },
+      {
+        "src": "img/hab1_escritorio.jpg",
+        "alt": "Habitación Estándar: escritorio"
+      },
+      {
+        "src": "img/hab1_cama.jpg",
+        "alt": "Habitación Estándar: cama"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Habitación Premium",
+    "precio": 90000,
+    "camas": 1,
+    "camasTexto": "Cama doble amplia",
+    "descripcion": "Cama doble amplia en un ambiente cálido, con ventana, baño privado con ducha, escritorio y TV.",
+    "caracteristicas": [
+      "Cama doble amplia",
+      "Baño privado",
+      "TV por cable",
+      "Escritorio",
+      "Wi-Fi gratis",
+      "Agua caliente"
+    ],
+    "fotos": [
+      {
+        "src": "img/hab2.jpg",
+        "alt": "Habitación Premium: dormitorio"
+      },
+      {
+        "src": "img/hab2_bano.jpg",
+        "alt": "Habitación Premium: baño"
+      },
+      {
+        "src": "img/hab2_escritorio.jpg",
+        "alt": "Habitación Premium: escritorio"
+      },
+      {
+        "src": "img/hab2_cama.jpg",
+        "alt": "Habitación Premium: cama"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Suite",
+    "precio": 120000,
+    "camas": 2,
+    "camasTexto": "2 camas",
+    "descripcion": "Dos camas, escritorio, TV y balcón con vista, ideal para compartir con comodidad.",
+    "caracteristicas": [
+      "2 camas",
+      "Baño privado",
+      "TV por cable",
+      "Escritorio y balcón",
+      "Wi-Fi gratis",
+      "Agua caliente"
+    ],
+    "fotos": [
+      {
+        "src": "img/hab3.jpg",
+        "alt": "Suite: dormitorio"
+      },
+      {
+        "src": "img/hab3_bano.jpg",
+        "alt": "Suite: baño"
+      },
+      {
+        "src": "img/hab3_escritorio.jpg",
+        "alt": "Suite: escritorio"
+      },
+      {
+        "src": "img/hab3_cama.jpg",
+        "alt": "Suite: cama"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Habitación Twin",
+    "precio": 80000,
+    "camas": 2,
+    "camasTexto": "2 camas",
+    "descripcion": "Dos camas con mesas de noche, baño privado con ducha y escritorio, ideal para viajes de trabajo o amigos.",
+    "caracteristicas": [
+      "2 camas",
+      "Baño privado",
+      "TV por cable",
+      "Escritorio",
+      "Wi-Fi gratis",
+      "Agua caliente"
+    ],
+    "fotos": [
+      {
+        "src": "img/hab4.jpg",
+        "alt": "Habitación Twin: dormitorio"
+      },
+      {
+        "src": "img/hab4_bano.jpg",
+        "alt": "Habitación Twin: baño"
+      },
+      {
+        "src": "img/hab4_escritorio.jpg",
+        "alt": "Habitación Twin: escritorio"
+      },
+      {
+        "src": "img/hab4_cama.jpg",
+        "alt": "Habitación Twin: cama"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Habitación Triple",
+    "precio": 110000,
+    "camas": 3,
+    "camasTexto": "3 camas",
+    "descripcion": "Tres camas en un espacio amplio con balcón, perfecta para grupos pequeños o familias.",
+    "caracteristicas": [
+      "3 camas",
+      "Baño privado",
+      "TV por cable",
+      "Escritorio y balcón",
+      "Wi-Fi gratis",
+      "Agua caliente"
+    ],
+    "fotos": [
+      {
+        "src": "img/hab5.jpg",
+        "alt": "Habitación Triple: dormitorio"
+      },
+      {
+        "src": "img/hab5_bano.jpg",
+        "alt": "Habitación Triple: baño"
+      },
+      {
+        "src": "img/hab5_escritorio.jpg",
+        "alt": "Habitación Triple: escritorio"
+      },
+      {
+        "src": "img/hab5_cama.jpg",
+        "alt": "Habitación Triple: cama"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Habitación Deluxe",
+    "precio": 140000,
+    "camas": 1,
+    "camasTexto": "Cama doble",
+    "descripcion": "Cama doble con detalles en azul, sala de estar con sofá, escritorio y balcón con vista. Nuestra habitación más completa.",
+    "caracteristicas": [
+      "Cama doble",
+      "Sala de estar",
+      "TV por cable",
+      "Escritorio y balcón",
+      "Wi-Fi gratis",
+      "Agua caliente"
+    ],
+    "fotos": [
+      {
+        "src": "img/hab6.jpg",
+        "alt": "Habitación Deluxe: dormitorio"
+      },
+      {
+        "src": "img/hab6_bano.jpg",
+        "alt": "Habitación Deluxe: baño"
+      },
+      {
+        "src": "img/hab6_escritorio.jpg",
+        "alt": "Habitación Deluxe: escritorio"
+      },
+      {
+        "src": "img/hab6_cama.jpg",
+        "alt": "Habitación Deluxe: cama"
+      }
+    ]
+  }
+]

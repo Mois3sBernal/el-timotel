@@ -1,0 +1,42 @@
+[
+  {
+    "icono": "car",
+    "titulo": "Parqueadero",
+    "texto": "Seguro y vigilado para tu vehículo."
+  },
+  {
+    "icono": "wifi",
+    "titulo": "Wi-Fi gratis",
+    "texto": "Conexión a internet de alta velocidad."
+  },
+  {
+    "icono": "bell-concierge",
+    "titulo": "Servicio a la habitación",
+    "texto": "Atención rápida a tu solicitud."
+  },
+  {
+    "icono": "droplet",
+    "titulo": "Agua caliente",
+    "texto": "Disponible las 24 horas."
+  },
+  {
+    "icono": "tv",
+    "titulo": "TV por cable",
+    "texto": "Diversión y entretenimiento en tu habitación."
+  },
+  {
+    "icono": "broom",
+    "titulo": "Limpieza diaria",
+    "texto": "Habitaciones limpias y desinfectadas."
+  },
+  {
+    "icono": "shield-halved",
+    "titulo": "Seguridad 24/7",
+    "texto": "Monitoreo constante para tu tranquilidad."
+  },
+  {
+    "icono": "bed",
+    "titulo": "Ambientes cómodos",
+    "texto": "Espacios diseñados para tu descanso."
+  }
+]
